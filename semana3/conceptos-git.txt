@@ -1,0 +1,9 @@
+Repositorio: Es la carpeta del proyecto donde se guarda todo el código y 
+el historial de cambios. Funciona como la base de datos para que varios 
+puedan trabajar sin perder versiones.
+
+Commit: Es una "foto" de tus archivos en un momento específico. Al hacer 
+commit guardas los cambios en el historial con un mensaje que explica qué hiciste. 
+
+Push: Es subir esos commits locales a un repositorio remoto como GitHub, 
+para que todo el equipo pueda ver tus actualizaciones.
